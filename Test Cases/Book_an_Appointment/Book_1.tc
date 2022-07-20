@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Book an Appointment with fill all the field's  form</description>
+   <name>Book_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0245b925-f07a-496a-9e71-906aeb57f1be</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check booked appointment direct from result booking</description>
+   <name>Check_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1a1f393-2578-4187-847e-11e973210d5f</testCaseGuid>
+</TestCaseEntity>

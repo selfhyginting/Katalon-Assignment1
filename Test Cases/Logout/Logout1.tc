@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout from toggle menu</description>
+   <name>Logout1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27681e38-7fa0-47f8-a996-70c22ac76ec9</testCaseGuid>
+</TestCaseEntity>

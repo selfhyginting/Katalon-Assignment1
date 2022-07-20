@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with invalid username and password</description>
+   <name>Login4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2cff2af-5d55-4359-b94d-87cd3a1e93a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cf580a5-6349-4639-a5a8-91792b0c6a26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>556447d0-7b87-4138-8c80-40ead7ac3d4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'selfhy'</defaultValue>
+      <description></description>
+      <id>8cf580a5-6349-4639-a5a8-91792b0c6a26</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'F5Kr6ouTF2Q='</defaultValue>
+      <description></description>
+      <id>556447d0-7b87-4138-8c80-40ead7ac3d4c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
